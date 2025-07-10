@@ -14,4 +14,10 @@
 
 <img src="figures/FD003.png" width = "70%" />
 
+** Prediction of test engines FD001 **
 
+<img src="figures/FD001EN40.png" width = "70%" />
+
+** Prediction of test engines FD003 **
+
+<img src="figures/FD001EN93.png" width = "70%" />
