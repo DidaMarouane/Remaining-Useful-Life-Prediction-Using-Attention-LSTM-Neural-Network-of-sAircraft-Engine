@@ -1,6 +1,6 @@
 # Remaining Useful Life Prediction Using Attention-LSTM Neural Network of Aircraft Engine
 
-** Abstract **
+Abstract
 
 Accurate prediction of the Remaining Useful Life (RUL) is essential for the effective implementation of Prognostics and Health Management (PHM) in aerospace, particularly in enhancing aero-engine reliability and forecasting potential failures to reduce maintenance costs and human-related risks.
 
@@ -14,19 +14,19 @@ The proposed model, which integrates an LSTM network, demonstrates superior perf
 
 # Results of Attention-LSTM
 
-** The results of the RUL predictions for the C-MAPSS sub-dataset FD001 **
+The results of the RUL predictions for the C-MAPSS sub-dataset FD001
 
 <img src="figures/FD001.png" width = "70%" />
 
-** The results of the RUL predictions for the C-MAPSS sub-dataset FD003 **
+The results of the RUL predictions for the C-MAPSS sub-dataset FD003
 
 <img src="figures/FD003.png" width = "70%" />
 
-** Prediction of test engines FD001 **
+Prediction of test engines FD001
 
 <img src="figures/FD001EN40.png" width = "70%" />
 
-** Prediction of test engines FD003 **
+Prediction of test engines FD003
 
 <img src="figures/FD001EN93.png" width = "70%" />
 
