@@ -1,6 +1,7 @@
 # Remaining Useful Life Prediction Using Attention-LSTM Neural Network of Aircraft Engine
 
 ** Abstract **
+
 Accurate prediction of the Remaining Useful Life (RUL) is essential for the effective implementation of Prognostics and Health Management (PHM) in aerospace, particularly in enhancing aero-engine reliability and forecasting potential failures to reduce maintenance costs and human-related risks.
 
 The NASA Commercial Modular Aero-Propulsion System Simulation (C-MAPSS) dataset, utilized in the 2021 PHM Data Challenge, serves as a widely recognized open-source benchmark, providing simulated turbofan engine data collected under realistic flight conditions. Previous deep learning approaches have leveraged this dataset to predict the remaining useful life of engine units.
